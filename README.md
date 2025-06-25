@@ -41,14 +41,21 @@
 
 ## Preview
 
-原固件如图：
+#### 原固件
+
 ![img.png](img/img.png)
 
-新固件如图：
+#### 新固件
+
 ![new_fw.jpg](img/new_fw.jpg)
 ![new_fw.gif](img/new_fw.gif)
 
 注：拍摄效果不太好，实际会更好看一些。有任何建议欢迎提[issues](https://github.com/shuai132/USB_METER/issues)。
+
+#### 上位机
+
+![app.png](img/app.png)
+注：目前还有一些小问题，很快会上传。
 
 ## Future
 
